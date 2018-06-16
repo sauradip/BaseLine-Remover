@@ -12,7 +12,7 @@ This a small Matlab Implementation for Removal of Base Line from document using 
 ###### Input
 ![Input](/7.jpg)
 ###### Output
-![Output](/line_removed_00077.JPG)
+![Output](/line_removed_00069.JPG)
 
 
 #### Image 2 : Half Document Image
