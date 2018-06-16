@@ -1,3 +1,7 @@
+
+[![DOI](https://zenodo.org/badge/137590821.svg)](https://zenodo.org/badge/latestdoi/137590821)
+
+
 # BaseLine Remover
 
 
