@@ -9,6 +9,15 @@ This a small Matlab Implementation for Removal of Base Line from document using 
 
 #### Image 1 : Single Document Line Image
 
-![GitHub Logo](/images/logo.png)
+###### Input
+![Input](/7.jpg)
+###### Output
+![Output](/line_removed_00077.JPG)
 
 
+#### Image 2 : Half Document Image
+
+###### Input
+![Input](/4.jpg)
+###### Output
+![Output](/line_removed_00019.JPG)
